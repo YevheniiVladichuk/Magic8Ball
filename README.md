@@ -1,6 +1,6 @@
 # Magic8Ball
 
-Walking through the course by Udemy, I'm continuing to do all tasks, even if it very simple for me. Practice, practice and one more practice. Have did two simple app today. Have not used Storyboard. In first app named Dicee have used Auto Layout programmatically. In the second app Magic8Ball have used SnapKit. The logic of the apps is change random result by button tap.
+Walking through the course by Udemy, I'm continuing to do all tasks, even if it very simple for me. Practice, practice and one more practice. Have done two simple app today. Have not used Storyboard. In the first app named Dicee, have used Auto Layout programmatically. In the second app Magic8Ball have used SnapKit. The logic of the apps is change random result by button tap.
 
 ## Screenshots
 
