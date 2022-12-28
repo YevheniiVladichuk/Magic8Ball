@@ -5,6 +5,4 @@ Have not used Storyboard. In first app named Dicee have used Auto Layout program
 In the second app Magic8Ball have used SnapKit.
 ## Screenshots
 
-<img src="https://github.com/YevheniiVladichuk/Dicee/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.51.png?raw=true" height="844" width="390"/>     
-<img src="https://github.com/YevheniiVladichuk/Magic8Ball/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.36.png?raw=true" height="844" width="390" >        
-<img src="https://github.com/YevheniiVladichuk/Magic8Ball/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.44.png?raw=true" height="844" width="390" >
+<img src="https://github.com/YevheniiVladichuk/Dicee/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.51.png?raw=true" height="844" width="390"/>     <img src="https://github.com/YevheniiVladichuk/Magic8Ball/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.36.png?raw=true" height="844" width="390" >        <img src="https://github.com/YevheniiVladichuk/Magic8Ball/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-12-28%20at%2020.22.44.png?raw=true" height="844" width="390" >
